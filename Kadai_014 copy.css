@@ -1,0 +1,22 @@
+.skyblue{
+  color:skyblue;
+  font-size: 40px;
+  font-family: 'Josefin Sans', sans-serif;
+font-family: 'Noto Sans JP', sans-serif;
+}
+
+.pink{
+  color:gb(255, 192, 203)
+  font-size:40px;
+  font-family: 'Josefin Sans', sans-serif;
+font-family: 'Noto Sans JP', sans-serif;
+}
+
+.black{
+  color:black;
+  font-size: 40px;
+  font-family: 'Josefin Sans', sans-serif;
+font-family: 'Noto Sans JP', sans-serif;
+}
+
+
